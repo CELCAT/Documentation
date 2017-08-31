@@ -2,19 +2,19 @@
 
 &#35;&#35; Disclaimer
 
-The source code shared here is created by various teams in CELCAT with different programming skills and responsibilities, and therefore the code quality may vary accordingly and doesn't reflect the code quality of the CELCAT's development team and of the CELCAT's official products.
+The source code shared here is created by various teams in CELCAT with different programming skills and responsibilities, and therefore the code quality may vary accordingly. This doesn't reflect the code quality of CELCAT's Development team or its official products.
 
 &#35;&#35; Copyright
 
-Unless specified otherwise, the copyright of all the shared information including source code, instructions and documents are described in the LICENSE file. CELCAT generally grants the GNU General Public License version 3, but the information shared by other contributors may be covered by the license of the contributorâ€™s choice.
+Unless specified otherwise, the copyright of all shared information (including source code, instructions and documents) is described in the LICENSE file. CELCAT generally grants the GNU (GNU's Not Unix) General Public License version 3, but the information shared by other contributors may be covered by the license of the contributor’s choice.
 
 &#35;&#35; Limitation of Liability
 
-CELCAT is not liable for any damages caused by use of the shared information. More details and interpretation are described in Section 15, 16 and 17 of the GNU General Public License version 3.
+CELCAT is not liable for any damages caused by use of shared information. More details are described in Section 15, 16 and 17 of the GNU General Public License version 3.
 
 &#35;&#35; Support
 
-None of the shared information including source code, instructions and documents are considered as CELCAT's official products and thus not supported by CELCAT Tech Support team and not subject to the Service Level Agreements. Any issues or feature requests should be raised on the Issues section of the GitHub website - a GitHub account is needed.
+None of the shared information (including source code, instructions and documents) is considered as CELCAT's official products and thus is neither supported by the CELCAT Tech Support team nor subject to the Service Level Agreement. Any issues or feature requests should be raised on the Issues section of the GitHub website - a GitHub account is needed.
 
 &#35;&#35; Introduction
 
